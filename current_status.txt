@@ -1,0 +1,9 @@
+source:
+total 8
+drwxrwxr-x 2 farah farah 4096 Oct 20 22:35 sheets
+-rw-rw-r-- 1 farah farah   44 Feb  2 23:55 to do list
+
+source/sheets:
+total 8
+-rw-rw-r-- 1 farah farah  9 Oct 20 15:37 sheet 1
+-rw-rw-r-- 1 farah farah 99 Oct 20 22:35 sheet 2
